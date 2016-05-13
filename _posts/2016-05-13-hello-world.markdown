@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-date: 2016-05-13 14:15:53 +0800
+date: 2016-05-13 14:15:53
 categories: hello
 ---
 {% highlight c %}
