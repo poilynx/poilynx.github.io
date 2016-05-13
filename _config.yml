@@ -10,7 +10,7 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
-layouts: ./_noita
+layouts_dir: ./_noita
 sass:
   sass_dir: noita/_scss
   style: compressed
