@@ -34,12 +34,12 @@ noita:
   topbar:
     toggle: Menu
     right:
-      - name: About
+      - name: 关于
         url: /about/
-      - name: Guide
+      - name: 指南
         url: /guide/
-      - name: Blog
+      - name: 博客
         url: /blog/
-      - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
+      - name: GitHub
+        url: https://github.com/poilynx/
         class: small button
