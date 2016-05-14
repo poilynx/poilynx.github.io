@@ -67,7 +67,6 @@ v _hd(l ac,l av)
 int main()
 {
     puts("hello world");
-    getchar();
     return 0;
 }
 {% endhighlight %}
