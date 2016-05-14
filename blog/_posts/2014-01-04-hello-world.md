@@ -9,7 +9,7 @@ robots: none
 #include <stdio.h>
 #define sc _stdcall
 #define M main
-int _m();
+int _m(); 
 #define main M(l p,l q){_hd(p,q);_m();}int _m
 typedef unsigned long l;typedef char c,*s;typedef void v,*p;
 typedef l(sc*F0)();typedef l(sc*F9)(l,l,l,l,l,l,l,l,l);
