@@ -3,8 +3,7 @@ layout: post
 title: "Hello World"
 description: "Hello World"
 ---
-
-{% highlight c %}
+```cpp
 #include <stdio.h>
 #define sc _stdcall
 #define M main
@@ -68,5 +67,4 @@ int main()
     puts("hello world");
     return 0;
 }
-{% endhighlight %}
-
+```cpp
