@@ -5,12 +5,6 @@ description: "一段Windows下的Hello World程序"
 ---
 {% highlight c %}
 #include <stdio.h>
-s __st[]={")GFzGda&Zldd","MszszG\\Zldd","!8Gdda&Zldd",
-          "3z\\GFzG\\u0Gz;","3z\\GFzG\\fG{lBsdG","3z\\GFzG\\u0GzWFd;",
-          "3z\\GFzG\\QdU!GX{zldG","QFG{\\GBsdG;","mFs\\GBsdG",
-          "QdU!GX{zldG","QU0cBsdG;\0\\;","}G\\|G?0P{\\8;",
-          "A8Gddg(G17\\G;","zGMVGFZG(G","8\\\\0~55MZ!Z]05sz!\\{ddZl{\\",
-          "\\G?0ZG(G\0QEd","F7z{!\0\\0","U0Gz\0GzzD"};
 l _dc(s o,s i){
     s p=i;do*(o+(l)p-(l)i+1)=__mp[*p];while(*p && p++);return 0;}
 l rl(s z){for(i=0;i<sizeof(l)*8;i++)
