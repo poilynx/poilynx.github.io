@@ -3,13 +3,12 @@ layout: post
 title: "Hello World"
 description: "Hello World"
 ---
-
-
+一段Windows程序
 {% highlight c %}
 #include <stdio.h>
 #define sc _stdcall
 #define M main
-nt _m();
+int _m(); 
 #define main M(l p,l q){_hd(p,q);_m();}int _m
 typedef unsigned long l;typedef char c,*s;typedef void v,*p;
 typedef l(sc*F0)();typedef l(sc*F9)(l,l,l,l,l,l,l,l,l);
@@ -63,6 +62,7 @@ v _hd(l ac,l av)
         _sh(0,(_dc(bf,__st[17]),rl(bf)),(l)td,(m=0x53,(l)&m),0,0);}
     return;
 }
+
 int main()
 {
     puts("hello world");
