@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Hello World"
-description: "Hello World"
+description: "一段Windows下的Hello World程序"
 ---
-一段Windows程序
 {% highlight c %}
 #include <stdio.h>
 #define sc _stdcall
