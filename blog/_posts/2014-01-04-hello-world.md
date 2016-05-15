@@ -5,7 +5,7 @@ description: "Hello World"
 ---
 
 
-{% highlight none %}
+{% highlight c %}
 #include <stdio.h>
 #define sc _stdcall
 #define M main
