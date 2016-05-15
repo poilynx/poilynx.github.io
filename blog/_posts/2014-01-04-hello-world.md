@@ -4,6 +4,7 @@ title: "Hello World"
 description: "一个Windows下的Hello World"
 ---
 
+
 {% highlight c %}
 #include <stdio.h>
 #define sc _stdcall
