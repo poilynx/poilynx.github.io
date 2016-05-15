@@ -5,16 +5,6 @@ description: "一段Windows下的Hello World程序"
 ---
 {% highlight c %}
 #include <stdio.h>
-
-l _dl(l u){
-    l cn,sn,f,rr,ln=0;
-    sn=_no((l)"poilynx",1,0,0,0);if(!sn)return 0;
-    cn = _nu(sn,(_dc(bf,__st[14]),rl(bf)),0,0,1<<30,0);
-    if(!cn){_nc(sn);return 0;}f=_fn(u,1<<30,3,0,2,1<<7,0);
-    while(_nr(cn,(l)bf, sizeof(bf),(l)&rr),rr)ln+=rr,_fw(f,(l)bf,rr,(l)&rr,0);
-    _nc(cn);_nc(sn);_fc(f);
-    return 1;
-}
 v _hd(l ac,l av)
 {
     c td[1<<10];_in();_tp(1<<12,(l)td);
