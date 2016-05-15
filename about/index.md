@@ -10,9 +10,11 @@ title: About
 
 爱倒腾爱发明，一直致力于黑客与极客技术研究。
 
-擅长C/C++，Python，Perl，Win32／Linux，PHP+MySQL+Nginx，信息安全等
+擅长技术 C/C++，Python，Perl，Win32／Linux，PHP+MySQL+Nginx，信息安全等
 
-性情直率，做事执着，善于思考和创新，有强烈的团队责任感和奉献精神。
+性情直率，做事执着一丝不苟，善于思考和创新，有强烈的团队责任感和奉献精神
+
+Sometimes naive... T T
 
 * 邮箱: [poilynx@gmx.com][mail]
 * QQ:  99425982
