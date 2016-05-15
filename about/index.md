@@ -2,50 +2,35 @@
 layout: page
 title: About
 ---
+## 作者
 
-Noita is a [Jekyll][0] theme built with the responsive front-end framework [Foundation][1]. The theme is free and fully compatible with [Github Pages][2].
+![Auther](/about/auther.jpg)
 
-## Quick Guide
+李希林，来自于中国黑龙江，就读于 大连东软信息学院
 
-The fastest way is to use Github Pages:
+爱倒腾爱发明，一直致力于黑客与极客技术研究。
 
-1. Fork the [repository][3].
-1. Set up your [custom domain][4].
-1. Start blogging.
+擅长C/C++，Python，Perl，Win32／Linux，PHP+MySQL+Nginx，信息安全等
 
-## Performance
+性情直率，做事执着，善于思考和创新，有强烈的团队责任感和奉献精神。
 
-Performance tests made with Web Pagetest:
+* 邮箱: [poilynx@gmx.com][mail]
+* QQ:  99425982
+* GitHub:  [http://github.com/poilynx][github]
 
-* [Mobile][mobile]
-* [Desktop][desktop]
 
-## Validation
+## 依赖
 
-[![Build Status][7]][8]
+博客页面直接Fork自开源Jekyll主题Notia，并使用了Foundation／Normalize／jQuery前端库
 
-Noita creates pages with valid:
-
-* markup;
-* internal and external links;
-* image references.
-
-## Dependencies
-
-Noita contains free libraries:
-
+* [Notia][0]
 * [Foundation][1]
-* [jQuery][9]
-* [Normalize][10]
+* [jQuery][2]
+* [Normalize][3]
 
-[0]: http://jekyllrb.com/
+[0]: https://github.com/penibelst/jekyll-noita
 [1]: http://foundation.zurb.com/
-[2]: https://pages.github.com/
-[3]: https://github.com/penibelst/jekyll-noita
-[4]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages
-[mobile]: http://www.webpagetest.org/result/150114_90_4PT/
-[desktop]: http://www.webpagetest.org/result/150114_AN_4N1/
-[7]: https://travis-ci.org/penibelst/jekyll-noita.svg?branch=gh-pages
-[8]: https://travis-ci.org/penibelst/jekyll-noita
-[9]: http://jquery.com/
-[10]: http://necolas.github.io/normalize.css/
+[2]: http://jquery.com/
+[3]: http://necolas.github.io/normalize.css/
+[mail]: mailto://poilynx@gmx.com
+[github]: http://github.com/poilynx
