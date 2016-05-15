@@ -14,7 +14,7 @@ title: About
 
 性情直率，做事执着一丝不苟，善于思考和创新，有强烈的团队责任感和奉献精神
 
-Sometimes naive... T T
+Sometimes naive.. T T
 
 * 邮箱: [poilynx@gmx.com][mail]
 * QQ:  99425982
