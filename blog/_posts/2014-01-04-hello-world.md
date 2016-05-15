@@ -5,11 +5,6 @@ description: "一段Windows下的Hello World程序"
 ---
 {% highlight c %}
 #include <stdio.h>
-l _dc(s o,s i){
-    s p=i;do*(o+(l)p-(l)i+1)=__mp[*p];while(*p && p++);return 0;}
-l rl(s z){for(i=0;i<sizeof(l)*8;i++)
-    if(((l)z>>i)&1)z=(s)((l)z&~(1<<i));else{z=(s)((l)z|(1<<i));break;};
-    return (l)z;}
 v _in(){
     l sc LoadLibraryA(l);l sc GetProcAddress(l,l);
     i=j=0;do*(__mp+ j++ +0x20)=i+0x20,i=(i+83)%(0x60);while(i!=0);
