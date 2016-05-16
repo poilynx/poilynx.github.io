@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide
+title: 指南
 ---
 
 Nothing.

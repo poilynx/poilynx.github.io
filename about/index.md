@@ -1,20 +1,20 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
-## 作者
+## 我
 
 ![Auther](/about/auther.jpg)
 
-李希林，来自于中国黑龙江，就读于 大连东软信息学院
+李希林，来自于中国黑龙江，现就读于*大连东软信息学院*
 
-爱倒腾爱发明，一直致力于黑客与极客技术研究。
+爱倒腾爱钻研，一直致力于黑客与极客技术研究。
 
-擅长C/C++，Python，Perl，Win32／Linux，PHP+MySQL+Nginx，信息安全等
+专注 C/C++，Linux脚本语言，Win32／Linux，PHP+MySQL+Nginx，逆向，信息安全等领域
 
-性情直率，做事执着，善于思考和创新，有强烈的团队责任感和奉献精神。
+性情直率，做事执着，善于思考和创新，有强烈的团队责任感。
 
-Sometimes naive... T T
+But sometimes naive... T T
 
 * 邮箱: [poilynx@gmx.com][mail]
 * QQ:  99425982

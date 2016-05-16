@@ -24,7 +24,7 @@ compress_html:
 # theme
 noita:
   name: Poilynx
-  description: 你必须知道真相，真相会使你自由。
+  description: 
   author:
     name: Sidney Li
     url: http://www.poilynx.nsscn.org
@@ -38,7 +38,7 @@ noita:
         url: /about/
       - name: 指南
         url: /guide/
-      - name: 博客
+      - name: 文章
         url: /blog/
       - name: GitHub
         url: https://github.com/poilynx/
