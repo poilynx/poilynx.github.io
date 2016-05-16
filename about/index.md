@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 ---
-## 我
+## 作者
 
 ![Auther](/about/auther.jpg)
 
