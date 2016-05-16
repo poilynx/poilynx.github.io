@@ -6,7 +6,7 @@ title: 关于
 
 ![Auther](/about/auther.jpg)
 
-Poilynx(Sidney Li)，来自于中国黑龙江，现就读于*大连东软信息学院*
+Poilynx，来自于中国黑龙江，现就读于*大连东软信息学院*
 
 爱倒腾爱钻研，一直致力于黑客与极客技术研究。
 
