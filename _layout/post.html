@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="row">
+<div class="medium-8 columns">
+<h3 class="subheader">{{ page.description }}</h3>
+{{ content }}
+<div id="container"></div>
+</div>
+</div>
+
+
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+        var gitment = new Gitment({
+        id: 'location.href',
+        owner: 'poilynx',
+        repo: 'https://github.com/poilynx/poilynx.github.io',
+        oauth: {
+                client_id: '9105efafdea83f42e701',
+                client_secret: '1b3372fc579d3f1292dcb0c983c69d29b829dbf1',
+        },
+        });
+        gitment.render('container')
+</script>

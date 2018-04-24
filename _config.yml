@@ -10,7 +10,7 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
-layouts_dir: ./_noita
+layouts_dir: ./_layout
 sass:
   sass_dir: noita/_scss
   style: compressed
@@ -27,7 +27,7 @@ noita:
   description: 
   author:
     name: Sidney Li
-    url: http://www.poilynx.nsscn.org
+    url: http://jmpesp.cc
   lang: en
   favicons:
     - /assets/favicon.png
