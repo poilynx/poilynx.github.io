@@ -27,7 +27,7 @@ noita:
   description: 
   author:
     name: Lihsilyn
-    url: https://jmpesp.cc
+    url: https://poilynx.github.com
   lang: zh
   favicons:
     - /assets/favicon.png
@@ -36,8 +36,8 @@ noita:
     right:
       - name: 关于
         url: /about/
-      - name: 指南
-        url: /guide/
+      - name: 技能树
+        url: /ability/
       - name: 文章
         url: /blog/
       - name: GitHub

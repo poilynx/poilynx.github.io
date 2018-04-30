@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 指南
+title: 技能树
 ---
 
 Nothing.
