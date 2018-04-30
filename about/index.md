@@ -23,14 +23,15 @@ Hi, 我是 Poilynx
 ## 协议
 
 本站托管在 Github Pages,使用开源静态博客Jekyll搭建  
-主题修改自Noita，并使用了Foundation／Normalize／jQuery前端库  
+主题使用Noita，它内部使用了Foundation／Normalize／jQuery前端库，评论系统使用了开源开源项目Gitalk  
 你可以访问该博客项目在Github上的源代码[poilynx/poilynx.github.io][5]，该项目在 [MIT Lisence][5] 协议下发布
 
+* [Jekyll][4]
 * [Noita][0]
 * [Foundation][1]
 * [jQuery][2]
 * [Normalize][3]
-* [Jekyll][4]
+* [Gitalk][6]
 
 
 <div id="gitalk-container"></div>
@@ -42,6 +43,7 @@ Hi, 我是 Poilynx
 [3]: http://necolas.github.io/normalize.css/
 [4]: https://jekyllrb.com/
 [5]: https://github.com/poilynx/poilynx.github.io
+[6]: https://github.com/gitalk/gitalk
 [mail]: mailto://poilynx@gmx.com
 [github]: http://github.com/poilynx
 [ability]: /ability/
