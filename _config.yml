@@ -24,13 +24,14 @@ compress_html:
 # theme
 noita:
   name: Poilynx
+  url: https://poilynx.github.com
   description: 
   author:
-    name: Lihsilyn
+    name: Li hsilyn
     url: https://poilynx.github.com
   lang: zh
   favicons:
-    - /assets/favicon.png
+    - /favicon.png
   topbar:
     toggle: Menu
     right:
