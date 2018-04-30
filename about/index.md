@@ -6,15 +6,15 @@ title: 关于
 
 ![Auther](/about/auther.jpg)
 
-Poilynx，来自于中国黑龙江，现就读于*大连东软信息学院*
+Hi, 我是 Poilyn
 
-爱倒腾爱钻研，一直致力于黑客与极客技术研究。
+虽然我不喜欢这个名字，但由于错综复杂的历史原因已经很难脱离这个鬼名字了
 
-专注 C/C++，Linux脚本语言，Win32／Linux，PHP+MySQL+Nginx，逆向，信息安全等领域
+博主本人是超级技术宅，从接触PC那天起，注定这辈子离不开这玩意儿，像吸毒一样，这让我也很无奈
 
-性情直率，做事执着，善于思考和创新，有强烈的团队责任感。
+目前就读于大连东软信息学院。不过读书期间出了点差错，现在正服役于咸阳消防，是一兵消防兵
 
-But sometimes naive... T T
+如果对我有兴趣（当然是技术方面），可以通过下面的方式联系我，或者查看我的技能树 [技能树][ability]
 
 * 邮箱: [poilynx@gmx.com][mail]
 * QQ:  99425982
@@ -23,12 +23,15 @@ But sometimes naive... T T
 
 ## 依赖
 
-博客页面直接Fork自开源Jekyll主题Notia，并使用了Foundation／Normalize／jQuery前端库
+博客页面直接Fork自开源Jekyll主题Noita，并使用了Foundation／Normalize／jQuery前端库
 
-* [Notia][0]
+* [Noita][0]
 * [Foundation][1]
 * [jQuery][2]
 * [Normalize][3]
+
+<div id="gitalk-container"></div>
+{% include /gitalk/panel.html %}
 
 [0]: https://github.com/penibelst/jekyll-noita
 [1]: http://foundation.zurb.com/
@@ -36,3 +39,4 @@ But sometimes naive... T T
 [3]: http://necolas.github.io/normalize.css/
 [mail]: mailto://poilynx@gmx.com
 [github]: http://github.com/poilynx
+[ability]: /ability/
