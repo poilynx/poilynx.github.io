@@ -26,9 +26,9 @@ noita:
   name: Poilynx
   description: 
   author:
-    name: Sidney Li
-    url: http://jmpesp.cc
-  lang: en
+    name: Lihsilyn
+    url: https://jmpesp.cc
+  lang: zh
   favicons:
     - /assets/favicon.png
   topbar:
@@ -43,3 +43,11 @@ noita:
       - name: GitHub
         url: https://github.com/poilynx/
         class: small button
+
+gitalk:
+    clientID: '9105efafdea83f42e701'
+    clientSecret: '1b3372fc579d3f1292dcb0c983c69d29b829dbf1'
+    repo: gitalkdb
+    owner: poilynx
+    admin: poilynx
+    distractionFreeMode: false  # Facebook-like distraction free mode
