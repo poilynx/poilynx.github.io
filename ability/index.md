@@ -76,15 +76,15 @@ title: 技能树
 	* php-fpm
 	* 
 
--  Visual Basic 6
--  Javascript
--  Lua
--  SQL
--  Bash
--  C#
--   i386 汇编语言
--   Python
--  。。。
+- Visual Basic 6
+- Javascript
+- Lua
+- SQL
+- Bash
+- C#
+- i386 汇编语言
+- Python
+- 。。。
 ## Win32
 * PE结构
 * 国际化
@@ -144,4 +144,3 @@ title: 技能树
 		* 服务状态
 	* 权限
 * ...
-Nothing.
