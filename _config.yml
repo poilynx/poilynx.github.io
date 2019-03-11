@@ -1,0 +1,54 @@
+# build
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+exclude:
+  - CNAME
+  - Gemfile
+  - LICENSE
+  - Rakefile
+  - README.md
+  - vendor/
+  - vnu/
+  - vnu.zip
+layouts_dir: ./_jekyll/_layouts
+includes_dir: ./_jekyll/_includes
+sass:
+  sass_dir: noita/_scss
+  style: compressed
+# compress layout in _noita/compress.html
+compress_html:
+  clippings: all
+  endings: all
+  comments: ["<!--", "-->"]
+  ignore:
+    envs: [travis]
+# theme
+noita:
+  name: JMP ESP
+  url: https://poilynx.github.com
+  description: 
+  author:
+    name: Sidney Li
+    url: https://poilynx.github.com
+  lang: zh
+  favicons:
+    - /favicon.png
+  topbar:
+    toggle: Menu
+    right:
+      - name: 关于
+        url: /about/
+      - name: 文章
+        url: /blog/
+      - name: GitHub
+        url: https://github.com/poilynx/
+        class: small button
+
+gitalk:
+    clientID: '9105efafdea83f42e701'
+    clientSecret: '1b3372fc579d3f1292dcb0c983c69d29b829dbf1'
+    repo: gitalkdb
+    owner: poilynx
+    admin: poilynx
+    distractionFreeMode: false  # Facebook-like distraction free mode
